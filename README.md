@@ -1,12 +1,9 @@
-# retardoclass
-penissex
+# Beastfloss - an ultralight 13" beast class frame built on the Floss frame. 
 
+Largely based on the FRL concept, though the midplate has been fixed and the arms altered. 
 
-Repo used to store files for my shitty frames. 
+Command center was altered for tracer compatibility. 
 
-Made public because why not. 
+I have genuinely built this and it does fully function.
 
-
-Based on FRL frame. Extemded arms and fixed midplate. 
-
-Command center modified for tracer and compatibility with the frame.
+I advise you to cut the arms out of the thickest carbon you can get your hands on; I chose 10mm. I recommend 5mm braces, and 3mm body assy plates.
