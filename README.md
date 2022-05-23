@@ -2,7 +2,7 @@
 
 Created 12/31/2021
 
-Largely based on the FRL concept, though the midplate has been fixed and the arms altered. 
+Largely based on the FRL concept, though the midplate has been fixed and the obviously arms altered. 
 
 Command center was altered for tracer compatibility. 
 
